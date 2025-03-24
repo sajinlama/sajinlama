@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sajin L. Tamang</h1>
 <h3 align="center">A passionate full stack developer from Nepal</h3>
 
-- 🔭 I’m currently working on **Online Tutor**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
